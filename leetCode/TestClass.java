@@ -10,6 +10,7 @@ public class TestClass {
 		System.out.println("UploadTest4");
 		System.out.println("UploadTest5");
 		System.out.println("UploadTest6");
+		System.out.println("UploadTest7");
 	}
 
 }
