@@ -26,6 +26,9 @@ public class TestClass {
 		// is it possible?
 		
 		System.out.println("Pull request");
+		System.out.println("Pull request");
+		System.out.println("Pull request");
+		System.out.println("Pull request");
 	}
 
 }
