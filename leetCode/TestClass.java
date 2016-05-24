@@ -4,19 +4,7 @@ public class TestClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("upLoadTest");
-		System.out.println("UploadTest2");
-		System.out.println("UploadTest3");
-		System.out.println("UploadTest4");
-		System.out.println("UploadTest5");
-		System.out.println("UploadTest6");
-		System.out.println("UploadTest7");
-		System.out.println("UploadTest8");
-		System.out.println("UploadTest9");
-		System.out.println("UploadTest10");
-
-	
-		
+		System.out.println("This is test branch");
 	}
 
 }
